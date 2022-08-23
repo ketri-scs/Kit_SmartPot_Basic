@@ -43,3 +43,6 @@
 * KETRi 전화번호: 061-721-2484
 </br></br>
 
+## 소스 파일
+* [클릭](https://github.com/ketri-scs/Kit_SmartPot_Basic/blob/master/Entry/smartpot.ent)
+
